@@ -1,0 +1,22 @@
+{
+    "cancel": "Cancel",
+    "demo": "สาธิต",
+    "preview": "ดูตัวอย่าง",
+    "coming": "Coming",
+    "il": {
+        "title": "คาสิโนนานาชาติป้ายขาว"
+    },
+    "currencyInfo": {
+        "title": "การสาธิตสกุลเงิน",
+        "usd": "USD",
+        "idr": "IDR",
+        "vnd": "VNR",
+        "thb": "THB",
+        "myr": "MYR",
+        "inr": "INR"
+    },
+    "footer": {
+        "title": "สำหรับแม่แบบและข้อมูลที่เกี่ยวข้องเพิ่มเติม โปรดติดต่อ",
+        "copyright": "Copyright © BG Reserved."
+    }
+}

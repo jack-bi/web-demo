@@ -1,0 +1,22 @@
+{
+    "cancel": "取消",
+    "demo": "模版",
+    "preview": "網站預覽",
+    "coming": "敬請期待",
+    "il": {
+        "title": "國際網站演示"
+    },
+    "currencyInfo": {
+        "title": "币种演示",
+        "usd": "美金",
+        "idr": "印尼盾",
+        "vnd": "越南盾",
+        "thb": "泰铢",
+        "myr": "馬幣",
+        "inr": "盧比"
+    },
+    "footer": {
+        "title": "Vue多國語模版演示站",
+        "copyright": "Copyright © 演示廳版權所有 Reserved"
+    }
+}

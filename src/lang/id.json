@@ -1,0 +1,22 @@
+{
+    "cancel": "Cancel",
+    "demo": "Demo",
+    "preview": "Pratinjau",
+    "coming": "Coming",
+    "il": {
+        "title": "Paket Jaringan Internasional"
+    },
+    "currencyInfo": {
+        "title": "Demo Mata Uang",
+        "usd": "USD",
+        "idr": "IDR",
+        "vnd": "VNR",
+        "thb": "THB",
+        "myr": "MYR",
+        "inr": "INR"
+    },
+    "footer": {
+        "title": "Untuk lebih banyak template dan informasi terkait, silakan hubungi",
+        "copyright": "Copyright © BG Reserved."
+    }
+}
