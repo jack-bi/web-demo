@@ -65,7 +65,7 @@
     return o.d(n, "a", n), n
   }, o.o = function (e, n) {
     return Object.prototype.hasOwnProperty.call(e, n)
-  }, o.p = "./", o.oe = function (e) {
+  }, o.p = "./dist", o.oe = function (e) {
     throw console.error(e), e
   }
 }([]);
